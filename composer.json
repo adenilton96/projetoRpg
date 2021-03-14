@@ -1,0 +1,16 @@
+{
+    "name": "adenilton96/rpg",
+    "authors": [
+        {
+            "name": "adenilton  oliveira",
+            "email": "adenilton96@live.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    }
+
+}
