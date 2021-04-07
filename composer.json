@@ -6,7 +6,9 @@
             "email": "adenilton96@live.com"
         }
     ],
-    "require": {},
+    "require": {
+        "twig/twig": "^3.3"
+    },
     "autoload": {
         "psr-4": {
             "app\\": "app/"
